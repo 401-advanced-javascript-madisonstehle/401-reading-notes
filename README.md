@@ -1,1 +1,7 @@
-# 401-reading-notes
+# Reading Notes
+## Code 401 - Advanced Software Development
+
+Reading notes from Code 401n16
+
+### Table of Contents
+1. [npm & Node.js](class-01.md)
