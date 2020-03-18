@@ -26,12 +26,12 @@
 
 
 ### Code Snippets
-- `npm init` | Initializes a package with a package.json file
-- `npm start` | Executes the “start” script within the package.json file
-- `npm test` | Executes the “test” script within the package.json file
-- `npm install <package>` | Installs a specified <package> onto the current package
-- `npm install -g <package>` | Installs a specified <package> for the entirety of Node.js on your machine
-- `node <file>` | Runs a specified <file> using the Node.js ecosystem
+- `npm init`: Initializes a package with a package.json file
+- `npm start`: Executes the “start” script within the package.json file
+- `npm test`: Executes the “test” script within the package.json file
+- `npm install <package>`:  Installs a specified <package> onto the current package
+- `npm install -g <package>`: Installs a specified <package> for the entirety of Node.js on your machine
+- `node <file>`: Runs a specified <file> using the Node.js ecosystem
 
 
 ### Discussion Questions
