@@ -12,20 +12,21 @@
 
 
 ### Vocabulary
-- **functional programming**:
-- **pure function**:
-- **higher-order function**:
-- **immutable state**:
-- **object**:
+- **functional programming**: A way of thinking about the functions we write - they should be pure, have no shared state (one function doesn't effect how another one runs), and immutable. We want our functions to be efficient and predictable.
+- **pure function**: A function given the same input should return the same output
+- **higher-order function**: A function that takes another function as an argument and/or returns a function
+- **immutable state**: Don't modify the arguments or return value outside of function
+- **object**: 
 - **object-oriented programming (OOP)**:
-- **class**:
+- **class**: A specific classification upon data - a blueprint for how the data should look. We then create _instances_ of that class.
 - **prototype**:
 - `super`:
 - **inheritance**:
 - **constructor**:
 - **instance**:
 - **context**:
-- `this`:
+- `this`: a keyword that refers to the current instance. a placeholder used to write the blueprint!
+- **schema**: an object used to validate objects. Each key is a key we expect to see in our valid data, and each key's value is an object. The object contains information on what the data key's vaue should look like (what is its type, is it required, etc.)
 
 
 ### Discussion Questions
