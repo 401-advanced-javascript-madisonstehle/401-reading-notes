@@ -8,3 +8,4 @@ Reading notes from Code 401n16
 2. [Classes, Inheritance, Functional Programming](class-02.md)
 3. [Data Modeling & NoSQL Databases](class-03.md)
 4. [Advanced Mongo/Mongoose](class-04.md)
+5. [DSA: Linked Lists](class-05.md)
