@@ -9,6 +9,7 @@ Reading notes from Code 401n16
 3. [Data Modeling & NoSQL Databases](class-03.md)
 4. [Advanced Mongo/Mongoose](class-04.md)
 5. [DSA: Linked Lists](class-05.md)
+6. [HTTP and REST](class-06.md)
 
 ### Prework Topics
 - [Engineering Topics](prework.md)
