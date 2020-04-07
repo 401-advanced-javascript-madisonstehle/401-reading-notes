@@ -13,7 +13,7 @@
 
 
 ### Vocabulary
-- Express
+- **Express**: a middleware package that lets us build servers
 - endpoint
 - routing
 - query
