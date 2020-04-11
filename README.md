@@ -13,6 +13,7 @@ Reading notes from Code 401n16
 7. [Express](class-07.md)
 8. [Express Routing & Connected API](class-08.md)
 9. [API Server](class-09.md)
+10. [Authentication](class-10.md)
 
 ### Prework Topics
 - [Engineering Topics](prework.md)
