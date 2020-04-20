@@ -15,6 +15,7 @@ Reading notes from Code 401n16
 9. [API Server](class-09.md)
 10. [Authentication](class-10.md)
 11. [DSA: Stacks & Queues](class-11.md)
+12. [OAuth](class-12.md)
 
 ### Career Topics
 - [Purpose Practice Worksheet](purpose-practice.md)
