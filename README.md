@@ -16,6 +16,7 @@ Reading notes from Code 401n16
 10. [Authentication](class-10.md)
 11. [DSA: Stacks & Queues](class-11.md)
 12. [OAuth](class-12.md)
+13. [Bearer Authorization](class-13.md)
 
 ### Career Topics
 - [Purpose Practice Worksheet](purpose-practice.md)
