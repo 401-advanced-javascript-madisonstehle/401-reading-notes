@@ -7,7 +7,7 @@
 - [Intro to JWT](https://jwt.io/introduction/)
 - [Are JWTs Secure?](https://stackoverflow.com/questions/27301557/if-you-can-decode-jwt-how-are-they-secure)
 - [NPM JSON Web Token Documentation](https://www.npmjs.com/package/jsonwebtoken)
-- [](https://nordicapis.com/3-common-methods-api-authentication-explained/)
+- [3 Common Methods of API Authentication Explained](https://nordicapis.com/3-common-methods-api-authentication-explained/)
 
 
 ### Discussion Questions
