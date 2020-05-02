@@ -18,6 +18,7 @@ Reading notes from Code 401n16
 12. [OAuth](class-12.md)
 13. [Bearer Authorization](class-13.md)
 14. [Access Control (ACL)](class-14.md)
+15. [DSA: Trees](class-15.md)
 
 ### Career Topics
 - [Purpose Practice Worksheet](purpose-practice.md)
