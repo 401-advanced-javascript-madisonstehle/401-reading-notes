@@ -20,6 +20,7 @@ Reading notes from Code 401n16
 14. [Access Control (ACL)](class-14.md)
 15. [DSA: Trees](class-15.md)
 16. [Event Driven Applications](class-16.md)
+17. [TCP Server](class-17.md)
 
 ### Career Topics
 - [Purpose Practice Worksheet](purpose-practice.md)
