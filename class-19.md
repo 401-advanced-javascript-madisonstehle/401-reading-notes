@@ -4,7 +4,7 @@
 ### Links
 - [Rooms and Namespaces](https://socket.io/docs/rooms-and-namespaces/)
 - [Socket.io Emit Cheatsheet](https://socket.io/docs/emit-cheatsheet/)
-- [Messaging Queues | System Design Basics](https://www.youtube.com/watch?v=sfQwMu0SCT8)
+- [Messaging Queues - System Design Basics](https://www.youtube.com/watch?v=sfQwMu0SCT8)
 
 
 ### Discussion Questions
