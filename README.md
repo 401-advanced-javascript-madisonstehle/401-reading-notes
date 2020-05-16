@@ -22,6 +22,7 @@ Reading notes from Code 401n16
 16. [Event Driven Applications](class-16.md)
 17. [TCP Server](class-17.md)
 18. [Socket.IO](class-18.md)
+19. [Message Queues](class-19.md)
 
 ### Career Topics
 - [Purpose Practice Worksheet](purpose-practice.md)
