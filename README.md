@@ -23,6 +23,8 @@ Reading notes from Code 401n16
 17. [TCP Server](class-17.md)
 18. [Socket.IO](class-18.md)
 19. [Message Queues](class-19.md)
+20. **Midterms**
+21. [Component Based UI](class-21.md)
 
 ### Career Topics
 - [Purpose Practice Worksheet](purpose-practice.md)
