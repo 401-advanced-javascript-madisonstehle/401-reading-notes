@@ -25,6 +25,7 @@ Reading notes from Code 401n16
 19. [Message Queues](class-19.md)
 20. **Midterms**
 21. [Component Based UI](class-21.md)
+22. [React Testing & Deployment](class-22.md)
 
 ### Career Topics
 - [Purpose Practice Worksheet](purpose-practice.md)
