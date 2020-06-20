@@ -28,6 +28,7 @@ Reading notes from Code 401n16
 22. [React Testing & Deployment](class-22.md)
 23. [Props & State](class-23.md)
 24. [Component Composition](class-24.md)
+25. [DSA: Hashtables](class-25.md)
 
 ### Career Topics
 - [Purpose Practice Worksheet](purpose-practice.md)
