@@ -30,6 +30,7 @@ Reading notes from Code 401n16
 24. [Component Composition](class-24.md)
 25. [DSA: Hashtables](class-25.md)
 26. [Hooks API](class-26.md)
+27. [Custom Hooks](class-27.md)
 
 ### Career Topics
 - [Purpose Practice Worksheet](purpose-practice.md)
