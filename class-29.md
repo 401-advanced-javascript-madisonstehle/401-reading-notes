@@ -13,7 +13,10 @@
 
 
 ### Discussion Questions
-1. ****
+1. **Why would you wrap your entire application within a context?** So that all of the components are descendants and can access state values and setters
+2. **What is the purpose of a reducer?** A reducer function determines how to update the state.
+3. **What does an action contain?** It contains types that triggers a reducer to be called.
+4. **Why do we need to copy the state in a reducer?** Because you can't change the state parameter directly.
 
 
 #### [Back to Home](README.md)
