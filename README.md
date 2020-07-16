@@ -34,6 +34,7 @@ Reading notes from Code 401n16
 28. [Context API](class-28.md)
 29. [Application State with Redux](class-29.md)
 30. [DSA: Graphs](class-30.md)
+31. [Redux - Combined Reducers](class-31.md)
 
 ### Career Topics
 - [Purpose Practice Worksheet](purpose-practice.md)
