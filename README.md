@@ -35,6 +35,7 @@ Reading notes from Code 401n16
 29. [Application State with Redux](class-29.md)
 30. [DSA: Graphs](class-30.md)
 31. [Redux - Combined Reducers](class-31.md)
+32. [Redux - Asynchronous Actions](class-32.md)
 
 ### Career Topics
 - [Purpose Practice Worksheet](purpose-practice.md)
