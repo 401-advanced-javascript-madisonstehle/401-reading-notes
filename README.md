@@ -37,6 +37,7 @@ Reading notes from Code 401n16
 31. [Redux - Combined Reducers](class-31.md)
 32. [Redux - Asynchronous Actions](class-32.md)
 33. [Redux - Additional Topics](class-33.md)
+34. [React Native](class-34.md)
 
 ### Career Topics
 - [Purpose Practice Worksheet](purpose-practice.md)
