@@ -38,8 +38,7 @@ Reading notes from Code 401n16
 32. [Redux - Asynchronous Actions](class-32.md)
 33. [Redux - Additional Topics](class-33.md)
 34. [React Native](class-34.md)
-
-36. [Gatsby, next.js, and other JS Frameworks](class-36.md)
+35. [Gatsby, next.js, and other JS Frameworks](class-36.md)
 
 ### Career Topics
 - [Purpose Practice Worksheet](purpose-practice.md)

@@ -1,4 +1,4 @@
-# Class-36
+# Class-35
 ## Gatsby, next.js, and other JS Frameworks
 
 ### Links
